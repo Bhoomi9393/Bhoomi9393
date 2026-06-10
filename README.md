@@ -105,6 +105,11 @@ A browser-based multiplayer game inspired by Agar.io with plans for progression 
 - Complete BCA with Strong Academic Performance
 - Prepare for Fully Funded International Research Programs
 
+<div align="center">
+
+![snake gif](https://github.com/Bhoomi9393/Bhoomi9393/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 
 ##  Connect With Me
@@ -119,11 +124,6 @@ A browser-based multiplayer game inspired by Agar.io with plans for progression 
   </a>
 </p>
 
-<div align="center">
-
-![snake gif](https://github.com/Bhoomi9393/Bhoomi9393/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 
 <div align="center">
