@@ -103,12 +103,10 @@ A browser-based multiplayer game inspired by Agar.io with plans for progression 
 - Build Production-Level Projects
 - Improve AI NPC Architecture
 - Complete BCA with Strong Academic Performance
-- Prepare for Fully Funded International Research Programs
 
 <div align="center">
 
-![snake gif](https://github.com/Bhoomi9393/Bhoomi9393/blob/output/github-contribution-grid-snake.svg)
-
+[![Bhoomika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhoomi9393&theme=tokyo-night)](https://github.com/Bhoomi9393)
 </div>
 
 
