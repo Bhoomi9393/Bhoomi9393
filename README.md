@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⏳ Bhoomika Chaudhary
+#  Bhoomika Chaudhary
 
 ### Building Worlds • Simulating Minds • Learning Every Day
 
@@ -10,11 +10,11 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-🎓 Third-Year BCA Student
+ Third-Year BCA Student
 
-💡 Interested in:
+ Interested in:
 
 - Artificial Intelligence
 - Game Development
@@ -22,7 +22,7 @@
 - NPC Behavior Systems
 - Software Development
 
-🚀 Currently Building:
+ Currently Building:
 
 - **TimeRealms** (Open World Sandbox Adventure)
 - **GlitchBorn** (Browser-Based Multiplayer Game)
@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -46,13 +46,13 @@
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
-### ⏳ TimeRealms
+###  TimeRealms
 
 A story-driven sandbox game where players travel through different eras, uncover hidden lore, interact with intelligent NPCs, and shape their own journey.
 
-### 🤖 NPC AI System
+###  NPC AI System
 
 Advanced NPC simulation featuring:
 
@@ -63,25 +63,27 @@ Advanced NPC simulation featuring:
 - Long-Term Memory
 - Relationship Evolution
 
-### 🎮 GlitchBorn
+###  GlitchBorn
 
 A browser-based multiplayer game inspired by Agar.io with plans for progression systems and unique gameplay mechanics.
 
 ---
 
-## 📚 Certifications
+##  Certifications
 
-🏅 NPTEL - Business Analytics for Management Decisions
+ NPTEL - Business Analytics for Management Decisions
 
-🏅 NPTEL - E-Business
+ NPTEL - E-Business
 
-🏅 CodSoft Java Development Internship
+ NPTEL - Deep Learning
 
-🏅 CodSoft Web Development Internship
+ CodSoft Java Development Internship
+
+ CodSoft Web Development Internship
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -95,7 +97,7 @@ A browser-based multiplayer game inspired by Agar.io with plans for progression 
 
 ---
 
-## 🎯 Current Goals
+##  Current Goals
 
 - Master Data Structures & Algorithms
 - Build Production-Level Projects
@@ -105,18 +107,16 @@ A browser-based multiplayer game inspired by Agar.io with plans for progression 
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhoomika-chaudhary-04308934b)
 
-📧 Email: bhoomi.init@gmail.com
+ Email: bhoomi.init@gmail.com
 
 ---
 
 <div align="center">
 
-### "Every world starts with a single line of code."
-
-⭐ Thanks for visiting my profile.
+### "Life is like a hardcore sandbox game with no tutorial and permanent consequences"
 
 </div>
