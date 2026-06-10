@@ -35,7 +35,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,next.js" />
 </p>
 
 ### Tools
