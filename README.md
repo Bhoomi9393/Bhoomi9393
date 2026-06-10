@@ -8,7 +8,7 @@
 
 </div>
 
----
+
 
 ##  About Me
 
@@ -28,7 +28,7 @@
 - **GlitchBorn** (Browser-Based Multiplayer Game)
 - **Advanced NPC AI System**
 
----
+
 
 ##  Tech Stack
 
@@ -44,7 +44,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
 </p>
 
----
+
 
 ##  Featured Projects
 
@@ -67,7 +67,7 @@ Advanced NPC simulation featuring:
 
 A browser-based multiplayer game inspired by Agar.io with plans for progression systems and unique gameplay mechanics.
 
----
+
 
 ##  Certifications
 
@@ -81,7 +81,7 @@ A browser-based multiplayer game inspired by Agar.io with plans for progression 
 
  CodSoft Web Development Internship
 
----
+
 
 ##  GitHub Stats
 
@@ -95,7 +95,7 @@ A browser-based multiplayer game inspired by Agar.io with plans for progression 
 
 </div>
 
----
+
 
 ##  Current Goals
 
@@ -105,7 +105,7 @@ A browser-based multiplayer game inspired by Agar.io with plans for progression 
 - Complete BCA with Strong Academic Performance
 - Prepare for Fully Funded International Research Programs
 
----
+
 
 ##  Connect With Me
 
@@ -113,7 +113,7 @@ A browser-based multiplayer game inspired by Agar.io with plans for progression 
 
  Email: bhoomi.init@gmail.com
 
----
+
 
 <div align="center">
 
