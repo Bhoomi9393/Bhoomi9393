@@ -41,7 +41,7 @@
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,framer,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,figma,framer" />
 </p>
 
 
