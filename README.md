@@ -111,11 +111,11 @@ A browser-based multiplayer game inspired by Agar.io with plans for progression 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhoomika-chaudhary-04308934b">
-    <img src="https://img.shields.io/badge/LinkedIn-Bhoomika%20Chaudhary-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-
+  
   <a href="mailto:bhoomi.init@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-bhoomi.init%40gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
