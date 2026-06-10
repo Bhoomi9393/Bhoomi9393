@@ -35,13 +35,13 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,next.js" />
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,nextjs" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,framer,figma" />
 </p>
 
 
