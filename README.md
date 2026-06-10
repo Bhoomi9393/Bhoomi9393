@@ -4,7 +4,7 @@
 
 ### Building Worlds • Simulating Minds • Learning Every Day
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=BCA+Student;Game+Developer;AI+NPC+Systems+Builder;Future+Research+Scholar;Creator+of+TimeRealms" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=BCA+Student;Building Software;Exploring AI & Game Systems;Turning Ideas into Projects" />
 
 </div>
 
