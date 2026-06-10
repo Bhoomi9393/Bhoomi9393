@@ -125,3 +125,5 @@ A browser-based multiplayer game inspired by Agar.io with plans for progression 
 ### "Life is like a hardcore sandbox game with no tutorial and permanent consequences"
 
 </div>
+
+![snake gif](https://github.com/Bhoomi9393/Bhoomi9393/blob/output/github-contribution-grid-snake.svg)
