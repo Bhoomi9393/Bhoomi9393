@@ -18,13 +18,12 @@
 
 - Artificial Intelligence
 - Game Development
-- World Building
 - NPC Behavior Systems
 - Software Development
 
  Currently Building:
 
-- **TimeRealms** (Open World Sandbox Adventure)
+- **TimeRealms** (Open World Sandbox Adventure Game)
 - **GlitchBorn** (Browser-Based Multiplayer Game)
 - **Advanced NPC AI System**
 
